@@ -10612,7 +10612,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   background-color: #434E5E;
 }
 
-.resume-wrapper {
+/*.resume-wrapper {
   padding-top: 30px;
   padding-bottom: 60px;
 }
@@ -10620,7 +10620,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 .resume-wrapper-inner {
   max-width: 1000px;
 }
-
+*/
 .resume-header {
   background: #434E5E;
   color: rgba(255, 255, 255, 0.9);
